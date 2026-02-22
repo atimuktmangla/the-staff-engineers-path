@@ -1,5 +1,5 @@
 # The Staff Engineer's Path
-
+ 
 ## Introduction
 
 **Big-picture thinking**
